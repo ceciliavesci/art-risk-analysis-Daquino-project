@@ -1,0 +1,881 @@
+site_name,geonames_id,latitude,longitude,Rischio_Alluvione,Rischio_Terremoto,artresearch_match,match_score,match_place,documentato,documentato_realmente
+Forum Clodii,,42.12937,12.16445,Basso,Basso,,0,,False,False
+tomba dei giganti San Cosimo,,39.50603,8.616286,Basso,Basso,,0,,False,False
+Calacte,,38.024241,14.440957,Basso,Elevato,,0,,False,False
+tomba dei giganti di Su Mont'e s'Abe,,40.87566667,9.48402778,Basso,Basso,,0,,False,False
+Grotta del Genovese,,38.0031,12.3222,Basso,Basso,,0,,False,False
+Scale Gemonie,,41.893333333333,12.484722222222,Basso,Medio,,0,,False,False
+Lorium,3179707.0,41.901109,12.28565,Basso,Basso,,0,,False,False
+tomba dei giganti di Pedras Doladas,,40.216328,8.613968,Basso,Basso,,0,,False,False
+Pyrgi,,42.015226,11.963414,Basso,Basso,,0,,False,False
+Mausoleo di Elena,,41.8789,12.54881,Basso,Medio,,0,,False,False
+teatro romano di Verona,8014999.0,45.447416666667,11.001638888889,Basso,Elevato,,0,,False,False
+Fregellae,11887187.0,41.53666667,13.53888889,Basso,Elevato,,0,,False,False
+abbazia di Santa Maria di Corazzo,,39.061539,16.423009,Basso,Elevato,,0,,False,False
+necropoli di Sos Furrighesos,,40.48126389,8.97295,Basso,Basso,,0,,False,False
+circo di Massenzio,8015041.0,41.854779007594,12.52068860954,Basso,Elevato,"Circo di Massenzio, Rom",100,Rom,True,True
+pozzo sacro di Funtana Coberta,,39.58109444,9.35195,Basso,Basso,,0,,False,False
+Santuario nuragico di Gremanu,,40.10805556,9.33888889,Basso,Basso,,0,,False,False
+Q1474215,,46.4685,11.2665,Basso,Basso,,0,,False,False
+Fonte di Giuturna,12035839.0,41.89157222,12.48588889,Basso,Medio,,0,,False,False
+Porta Fontinalis,,41.894,12.4843,Basso,Medio,,0,,False,False
+Megara Iblea,8063661.0,37.203717,15.181777,Basso,Elevato,,0,,False,False
+Eraclea,,40.2195,16.6704,Basso,Basso,,0,,False,False
+Telesia,,41.220156,14.514947,Basso,Elevato,,0,,False,False
+mausoleo di Cecilia Metella,8015043.0,41.852013,12.520701,Basso,Elevato,,0,,False,False
+Grotta del Colombo,,45.850754,10.960651,Basso,Medio,,0,,False,False
+area archeologica di Sa Sedda e’ Sos Carros,,40.273464,9.404074,Basso,Basso,,0,,False,False
+Falerii,8199357.0,42.2999961333,12.3573670667,Basso,Medio,,0,,False,False
+complesso nuragico di Sos Nurattolos,,40.6884097,9.3127665,Basso,Basso,,0,,False,False
+Tempio della Pace,,41.892622,12.487611,Basso,Medio,,0,,False,False
+Grumentum,7289451.0,40.28388889,15.90611111,Basso,Elevato,,0,,False,False
+complesso nuragico di Palmavera,,40.5949529,8.2426912,Basso,Basso,,0,,False,False
+teatro romano di Benevento,10292643.0,41.1303701,14.7711024,Basso,Elevato,,0,,False,False
+Pirro Nord,,41.801777777778,15.385083333333,Basso,Elevato,,0,,False,False
+Alesa Arconidea,,37.98333333,14.23333333,Basso,Elevato,,0,,False,False
+Interamna Lirenas,,41.42765450178,13.753907939574,Basso,Elevato,,0,,False,False
+Eraclea Minoa,7287882.0,37.393952777778,13.280747222222,Basso,Basso,,0,,False,False
+necropoli di Fossa,11153273.0,42.310764,13.505018,Basso,Elevato,,0,,False,False
+artemision di Siracusa,,37.0599,15.2937,Basso,Elevato,,0,,False,False
+Isernia La Pineta,,41.5915388,14.2412626,Basso,Elevato,,0,,False,False
+sepolcro degli Scipioni,8015037.0,41.87613889,12.50075,Basso,Medio,,0,,False,False
+Fornix Fabianus,,41.891897,12.486367,Basso,Medio,,0,,False,False
+isola Sacra,3168729.0,41.75,12.25,Elevato,Basso,,0,,False,False
+tomba dei giganti di Laccaneddu,,40.5117,8.43808,Basso,Basso,,0,,False,False
+Sepolcro del Giovinetto Quinto Sulpicio Massimo,,41.9105969,12.4984203,Basso,Medio,,0,,False,False
+MegaMuseo,,45.735077,7.2983,Basso,Medio,,0,,False,False
+Tempio della Vittoria,,41.88944444,12.48511111,Basso,Medio,,0,,False,False
+"Domus delle Muse (III,IX,22)",,41.752140081159,12.285465022529,Basso,Basso,,0,,False,False
+Arco dei Gavi,11127154.0,45.4401,10.98877,Basso,Elevato,"Arco dei Gavi, Verona",100,Verona,True,True
+Crypta Neapolitana,,40.831047,14.217561,Basso,Elevato,,0,,False,False
+Cava d'Ispica,,36.810462,14.876093,Basso,Elevato,,0,,False,False
+Mozia,2524039.0,37.868333333333,12.468611111111,Basso,Basso,,0,,False,False
+complesso nuragico di Cabu Abbas,8953098.0,40.95555556,9.52083333,Basso,Basso,,0,,False,False
+Tempio di Giunone Moneta,,41.89385,12.48317,Basso,Medio,"Tempio di Giunone Moneta, Segni",100,Segni,True,False
+Corte Noa,,39.89222222,9.02111111,Basso,Basso,,0,,False,False
+Tempio di Vesta,,41.88940833,12.48528333,Basso,Medio,"Tempio di Vesta, Tivoli",100,Tivoli,True,True
+San Marco in Boccalama,,45.38861111,12.28138889,Basso,Basso,,0,,False,False
+Collatia,,41.92513,12.66662,Basso,Elevato,,0,,False,False
+Cales,,41.199929,14.132176,Basso,Medio,,0,,False,False
+House of Bacchus and Ariadne,,41.75355,12.28384,Basso,Basso,,0,,False,False
+Casa Romuli,,41.88944444,12.48472222,Basso,Medio,,0,,False,False
+Teatro greco di Siracusa,10282065.0,37.07611,15.275,Basso,Elevato,,0,,False,False
+casa della Farnesina,,41.8944,12.4665,Basso,Medio,,0,,False,False
+circo Variano,,41.88777778,12.51944444,Basso,Medio,,0,,False,False
+Tomba delle Leonesse,,42.2503,11.7687,Basso,Medio,,0,,False,False
+Gravisca,3163829.0,42.21277778,11.71027778,Basso,Basso,,0,,False,False
+Domus Augustana,,41.8877,12.4866,Basso,Medio,,0,,False,False
+Giardini Farnese,10303136.0,41.890277777778,12.486388888889,Basso,Medio,,0,,False,False
+Cornus,,40.09333333,8.50805556,Basso,Basso,,0,,False,False
+Erdonia,,41.316575,15.628294,Basso,Elevato,,0,,False,False
+anfiteatro romano di Siracusa,,37.074152777778,15.27895,Basso,Elevato,,0,,False,False
+complesso nuragico di Romanzesu,,40.53027778,9.32472222,Basso,Basso,,0,,False,False
+Corbione,,41.77730556,12.91766667,Basso,Elevato,,0,,False,False
+Arco di Claudio,,41.89931667,12.48109722,Basso,Medio,,0,,False,False
+Perusia,,43.1117,12.3906,Basso,Elevato,,0,,False,False
+Porta Palatina,6697891.0,45.075,7.6847,Basso,Basso,"Porta Palatina, Turin",100,Turin,True,True
+Tempio di Augusto,,41.8916,12.4844,Basso,Medio,"tempio di Augusto, Pompeji",100,Pompeji,True,False
+Neapolis,,39.68722222,8.55333333,Basso,Basso,"Neapolis, Selinunte di Castelvetrano",100,Selinunte di Castelvetrano,True,False
+Scolacium,,38.817212,16.597035,Basso,Elevato,,0,,False,False
+Calatia,,41.044283,14.356247,Basso,Medio,,0,,False,False
+Liternum,,40.921094,14.030128,Basso,Medio,,0,,False,False
+Vulci,3163940.0,42.419129,11.628128,Basso,Medio,,0,,False,False
+casa dell'Ara Massima,,40.752692,14.484786,Basso,Medio,,0,,False,False
+Pyxous,,40.074251,15.523918,Basso,Medio,,0,,False,False
+Circo Flaminio,,41.8927578,12.4774218,Basso,Medio,,0,,False,False
+Arco di Druso,8015036.0,41.873794,12.501406,Basso,Medio,"Arco di Druso, Rom",100,Rom,True,True
+catacombe di San Callisto,,41.85887778,12.51105833,Basso,Medio,,0,,False,False
+Tomba del Colle Casuccini,,43.01726324162,11.962778201321,Basso,Medio,,0,,False,False
+Cripta del Redentore,,40.46388889,17.26305556,Basso,Basso,,0,,False,False
+Ca' Belvedere,,44.2017,11.95,Basso,Elevato,,0,,False,False
+nuraghe Genna Maria,,39.6354395,8.85326385,Basso,Basso,,0,,False,False
+Ostia,3171796.0,41.754166666667,12.2875,Basso,Basso,,0,,False,False
+Cereatae,,41.67111111,13.48722222,Basso,Elevato,,0,,False,False
+Suasa,6535609.0,43.625555555556,12.984444444444,Basso,Elevato,,0,,False,False
+Cuccuru Nuraxi,,39.28615052,9.17675972,Basso,Basso,,0,,False,False
+Casa dei dipinti,,41.755036,12.287999,Basso,Basso,,0,,False,False
+anfiteatro romano di Suasa,,43.625,12.987222,Basso,Elevato,,0,,False,False
+Metaponto,7289453.0,40.383126,16.822782,Elevato,Basso,,0,,False,False
+Alba Fucens,8410805.0,42.079059725959,13.411468116683,Basso,Elevato,,0,,False,False
+Curia Hostilia,6269258.0,41.893055555556,12.485277777778,Basso,Medio,,0,,False,False
+Curia Iulia,6269258.0,41.892930555556,12.485402777778,Basso,Medio,"Curia Iulia, Rom",100,Rom,True,True
+carcere Mamertino,,41.893333333333,12.484444444444,Basso,Medio,,0,,False,False
+comizio,,41.892777777778,12.485,Basso,Medio,,0,,False,False
+Ara massima di Ercole invitto,,41.8889,12.4811,Basso,Medio,,0,,False,False
+Castro,,42.532777777778,11.648611111111,Basso,Medio,,0,,False,False
+casa dei Cei,,40.750032,14.489398,Basso,Medio,,0,,False,False
+Trebula Balliensis,,41.2,14.25,Basso,Medio,,0,,False,False
+Tomba dei Tori,,42.24,11.7944,Basso,Basso,,0,,False,False
+Catacombe dei Santi Marcellino e Pietro,,41.87902778,12.54908333,Basso,Medio,,0,,False,False
+Horti Liciniani,,41.892944,12.508833,Basso,Medio,,0,,False,False
+Bisenzio,,42.574066666667,11.874766666667,Basso,Medio,,0,,False,False
+Stipe votiva di piazza San Francesco,,37.50255,15.08464722,Basso,Elevato,,0,,False,False
+Castra Praetoria,,41.908798668981,12.507940792131,Basso,Medio,,0,,False,False
+Casilinum,,41.1094,14.2091,Elevato,Medio,,0,,False,False
+mura di Roselle,,42.8271,11.1593,Basso,Basso,,0,,False,False
+domus de janas Campu Lontanu,,40.59083333,8.63527778,Basso,Basso,,0,,False,False
+Thapsos,,37.15,15.23333333,Basso,Elevato,,0,,False,False
+parco archeologico di Monte Sannace,,40.8325,16.96555556,Basso,Basso,"Parco Archeologico di Monte Sannace, Gioia del Colle",100,Gioia del Colle,True,True
+Terme di Traiano,8015118.0,41.891867,12.496281,Basso,Medio,,0,,False,False
+Mura aureliane,,41.873292,12.498955,Basso,Medio,,0,,False,False
+Piazzale delle Corporazioni,,41.7564,12.2911,Basso,Basso,,0,,False,False
+piramide Cestia,,41.876489,12.480898,Basso,Medio,,0,,False,False
+Acqua Marcia,,41.8468009,12.563348,Basso,Elevato,,0,,False,False
+Saepta Iulia,,41.8983,12.478,Basso,Medio,,0,,False,False
+grotta del Romito,,39.911111111111,15.929166666667,Basso,Elevato,,0,,False,False
+Peltuinum,11153680.0,42.286929,13.62261,Basso,Elevato,,0,,False,False
+Tres Tabernae,,41.561944444444,12.873888888889,Basso,Medio,,0,,False,False
+Villa di Livia,,42.00208,12.493622,Basso,Basso,"Villa di Livia, Prima Porta-Labaro",100,Prima Porta-Labaro,True,True
+Terme di Costantino,,41.89843,12.4879,Basso,Medio,,0,,False,False
+Teatro romano di Catania,,37.502778,15.083611,Basso,Elevato,,0,,False,False
+Atella,,40.95999,14.25935,Basso,Medio,,0,,False,False
+Stentinello,,37.11388889,15.24055556,Basso,Elevato,,0,,False,False
+Villa del Tellaro,,36.83555556,15.07861111,Basso,Elevato,,0,,False,False
+Villa di Poppea,,40.75722222,14.4525,Basso,Elevato,,0,,False,False
+Gabii,3176443.0,41.886888888889,12.715833333333,Basso,Elevato,,0,,False,False
+Mercati di Traiano,,41.895611,12.486194,Basso,Medio,"Mercati di Traiano, Rom",100,Rom,True,True
+Solunto,2523057.0,38.09305556,13.53138889,Basso,Elevato,,0,,False,False
+area archeologica di Nora,8199395.0,38.985737,9.016026,Basso,Basso,,0,,False,False
+Medma,,38.4825,15.99055556,Basso,Elevato,,0,,False,False
+Tempio della Magna Mater,,41.88961,12.48456,Basso,Medio,,0,,False,False
+Cosa,3177932.0,42.410919,11.286503,Basso,Basso,,0,,False,False
+Altino,3219030.0,45.54638889,12.39888889,Basso,Basso,,0,,False,False
+aquedotto Anio novus,,41.846,12.561,Basso,Elevato,,0,,False,False
+Terme di Agrippa,,41.896906,12.476997,Basso,Medio,,0,,False,False
+Aqua Iulia,,41.896963,12.510719,Basso,Medio,,0,,False,False
+Tempio di Nettuno,,40.42,15.005611111111,Basso,Basso,"Tempio di Nettuno, Paestum di Capaccio",100,Paestum di Capaccio,True,True
+Poggio Civitate,,43.1556,11.3994,Basso,Medio,,0,,False,False
+Bovillae,,41.7575,12.6217,Basso,Elevato,,0,,False,False
+Ostra antica,,43.584722222222,13.086111111111,Basso,Elevato,,0,,False,False
+Trebula Mutuesca,,42.22767,12.86865,Basso,Elevato,,0,,False,False
+Stabia,3179661.0,40.703055555556,14.498888888889,Basso,Medio,,0,,False,False
+Domus Aurea,7303192.0,41.891388888889,12.495277777778,Basso,Medio,"Domus Aurea, Rom",100,Rom,True,True
+Aqua Tepula,,41.900135,12.50868,Basso,Medio,,0,,False,False
+Tabularium,,41.892777777778,12.483611111111,Basso,Medio,"Tabularium, Rom",100,Rom,True,True
+Anfiteatro campano,,41.08611111,14.25,Basso,Medio,"Anfiteatro Campano, Santa Maria Capua Vetere",100,Santa Maria Capua Vetere,True,True
+Luna,3174455.0,44.064,10.017,Elevato,Medio,,0,,False,False
+Tempio di Giove Ottimo Massimo,,41.892175,12.481689,Basso,Medio,,0,,False,False
+Cloaca Massima,,41.888888888889,12.480277777778,Basso,Medio,,0,,False,False
+Foro di Nerva,,41.89305,12.48617,Basso,Medio,,0,,False,False
+Nuceria,,40.743128,14.673929,Medio,Medio,,0,,False,False
+Domus Flavia,,41.8885,12.4869,Basso,Medio,"Domus Flavia, Rom",100,Rom,True,True
+Arena di Verona,7303230.0,45.438888888889,10.994444444444,Basso,Elevato,,0,,False,False
+Arco di Giano,11978582.0,41.889444,12.482778,Basso,Medio,"Arco di Giano, Rom",100,Rom,True,True
+circo romano di Milano,,45.465134,9.17899,Basso,Basso,,0,,False,False
+Hykkara,,38.130911,13.183937,Basso,Elevato,,0,,False,False
+Tempio di Adriano,8015140.0,41.899722222222,12.479444444444,Basso,Medio,,0,,False,False
+Aqua Alsietina,,41.88656,12.469321,Basso,Medio,,0,,False,False
+Villa Settefinestre,,42.43059444,11.32675556,Basso,Basso,,0,,False,False
+Tomba della Pellegrina,,43.029025,11.9506143,Basso,Medio,,0,,False,False
+Valle dei Templi,7522495.0,37.311188,13.576956,Basso,Basso,,0,,False,False
+Tempio del Divo Claudio,,41.88795,12.49311,Basso,Medio,,0,,False,False
+Tomba di Stile Orientalizzante,,43.030781,11.952567,Basso,Medio,,0,,False,False
+Tiscali,,40.241618,9.491576,Basso,Basso,,0,,False,False
+Canne,,41.296388888889,16.151666666667,Basso,Elevato,,0,,False,False
+Scavi archeologici dell'agro pompeiano,,40.761389,14.471389,Basso,Elevato,,0,,False,False
+Argos Hippium,,41.475654,15.555444,Basso,Medio,,0,,False,False
+Anfiteatro castrense,8015086.0,41.8875,12.515,Basso,Medio,"Anfiteatro Castrense, Rom",100,Rom,True,True
+Basilica Giulia,6269257.0,41.89195,12.48478,Basso,Medio,,0,,False,False
+necropoli di Anghelu Ruju,,40.6325,8.32666667,Basso,Basso,,0,,False,False
+Tempio di Antas,,39.394051,8.5002369,Basso,Basso,,0,,False,False
+basilica Emilia,6269254.0,41.89259,12.48614,Basso,Medio,,0,,False,False
+Anfiteatro Flavio,,40.825869,14.125078,Basso,Elevato,"Anfiteatro Flavio, Pozzuoli",100,Pozzuoli,True,True
+Rostri,6269256.0,41.892638888889,12.484611111111,Basso,Medio,,0,,False,False
+Tharros,2522937.0,39.8734381,8.4410191,Basso,Basso,,0,,False,False
+Ferento,,42.48861111,12.1325,Basso,Medio,,0,,False,False
+Terme di Caracalla,8015033.0,41.880264,12.492764,Basso,Medio,"Terme di Caracalla, Rom",100,Rom,True,True
+Veio,7910549.0,42.023888888889,12.401388888889,Basso,Basso,,0,,False,False
+acquedotto Claudio,,41.8490622,12.5541753,Basso,Elevato,,0,,False,False
+Ara Pacis,6269265.0,41.906388888889,12.475555555556,Basso,Medio,"Ara Pacis, Rom",100,Rom,True,True
+Acquedotto alessandrino,,41.90817,12.504491,Basso,Medio,,0,,False,False
+Acquedotto Traiano,,41.8886,12.4641,Basso,Medio,,0,,False,False
+tempio di Poseidone,,40.47377778,17.233,Basso,Basso,,0,,False,False
+Villa del Casale,7287817.0,37.364723,14.334553,Basso,Medio,,0,,False,False
+Pithecusa,,40.75555556,13.88316667,Basso,Elevato,,0,,False,False
+Tempio di Marte Ultore,,41.894283,12.486844,Basso,Medio,,0,,False,False
+Acquedotto Anio vetus,,41.898212,12.509286,Basso,Medio,,0,,False,False
+circo di Nerone,,41.901666666667,12.455277777778,Basso,Medio,,0,,False,False
+Eretum,,42.135169,12.738336,Basso,Medio,,0,,False,False
+catacombe di Roma,,41.894444444444,12.498333333333,Basso,Medio,,0,,False,False
+Egnazia,3177430.0,40.887799,17.391103,Basso,Basso,,0,,False,False
+Teatro di Marcello,6269263.0,41.891911,12.479483,Basso,Medio,"Teatro di Marcello, Rom",100,Rom,True,True
+Arco di Tito,6269250.0,41.890717,12.488585,Basso,Medio,"Arco di Tito, Rom",100,Rom,True,True
+Sepolcro di Gaio Publicio Bibulo,,41.89486389,12.48150833,Basso,Medio,,0,,False,False
+Terme di Caracalla,,41.7284473,12.6578489,Basso,Elevato,"Terme di Caracalla, Rom",100,Rom,True,True
+Terme Taurine,,42.1095,11.83591944,Basso,Basso,,0,,False,False
+Villa romana della Foce,,43.808209,7.759464,Elevato,Elevato,,0,,False,False
+Villa dei Sette Bassi,,41.8426981,12.5760694,Basso,Elevato,,0,,False,False
+Tempio della Fortuna Augusta,,40.750682,14.484351,Basso,Medio,"Tempio della Fortuna Augusta, Pompeji",100,Pompeji,True,True
+Tempio di Efesto,,37.292933,13.578758,Basso,Basso,,0,,False,False
+Villa di Faragola,,41.228267,15.559854,Basso,Elevato,,0,,False,False
+Tempio di Giove Statore,,41.8931,12.4795,Basso,Medio,,0,,False,False
+Terme dell'Indirizzo,,37.50093889,15.08566667,Basso,Elevato,,0,,False,False
+tempio di Giunone,,37.2886,13.6002,Basso,Basso,,0,,False,False
+Triclinium Leoninum,,41.887,12.50725,Basso,Medio,,0,,False,False
+Tempio dei Dioscuri,,37.291358,13.581378,Basso,Basso,"Tempio dei Dioscuri, Agrigent",100,Agrigent,True,True
+Villa di Domiziano,,41.26845,13.03933,Basso,Basso,,0,,False,False
+Terme Eleniane,,41.88922222,12.51466111,Basso,Medio,,0,,False,False
+sepolcro dei Sempronii,,41.89979444,12.48545,Basso,Medio,,0,,False,False
+Satrianum,,40.567002971369,15.639582668924,Basso,Elevato,,0,,False,False
+teatro romano di Locri,,38.21618056,16.22863611,Basso,Elevato,,0,,False,False
+terme romane di Fondi,,41.35739,13.42925,Basso,Basso,,0,,False,False
+Tempio di Venere Ericina,,41.90997778,12.49650556,Basso,Medio,,0,,False,False
+Vereto,,39.838614,18.3270192,Basso,Basso,,0,,False,False
+Silvium,,40.8196,16.3998,Basso,Medio,,0,,False,False
+teatro romano di Torino,11127301.0,45.07397222,7.68551389,Basso,Basso,,0,,False,False
+Tempio di Giove,,42.4109,11.28654444,Basso,Basso,"Tempio di Giove, Cumae",100,Cumae,True,False
+Tempio di Atena,,37.0596,15.2937,Basso,Elevato,,0,,False,False
+Scavi archeologici di Palazzo Martinengo Cesaresco Novarino,,45.539258,10.22545,Basso,Elevato,,0,,False,False
+Teatro romano di Milano,,45.46527778,9.18277778,Basso,Basso,,0,,False,False
+Teatro Piccolo di Pompei,,40.748854,14.488987,Basso,Medio,,0,,False,False
+Tempio L,,37.291025,13.581416,Basso,Basso,,0,,False,False
+Tempio italico,11839530.0,42.102117,13.755884,Basso,Elevato,"Tempio Italico, Paestum di Capaccio",100,Paestum di Capaccio,True,False
+Tempio di Giove Appennino,,43.417222222222,12.656111111111,Basso,Elevato,,0,,False,False
+Tombe preistoriche dell'Arco di Augusto,,41.89194444,12.48611111,Basso,Medio,,0,,False,False
+Tempio F,,37.5873,12.8349,Basso,Elevato,,0,,False,False
+Tempio di Giove Anxur,,41.291639,13.259863,Basso,Basso,"Tempio di Giove Anxur, Terracina",100,Terracina,True,True
+Tempio di Iside,,43.769375,11.25808333,Medio,Medio,,0,,False,False
+tempio di Segesta,,37.941449,12.83307,Basso,Medio,"Tempio di Segesta, Calatafimi Segesta",100,Calatafimi Segesta,True,True
+Tomba della Colonna,,42.676839,11.893447,Basso,Medio,,0,,False,False
+ipogeo di Sant'Iroxi,,39.336111,8.920278,Basso,Basso,,0,,False,False
+Tempio di Bellona,,41.752638888889,12.291583333333,Basso,Basso,,0,,False,False
+Tempio di Atena Lindia e Zeus Atabyrios,,37.312904,13.578062,Basso,Basso,,0,,False,False
+Tempio Dorico,,40.748279,14.488005,Basso,Medio,"Tempio Dorico, Tarent",100,Tarent,True,False
+Valesio,,40.505968,18.030624,Medio,Basso,,0,,False,False
+Terme Achilliane,,37.50240556,15.08740278,Elevato,Elevato,,0,,False,False
+Tempio di Esculapio,,37.282546,13.589659,Basso,Basso,,0,,False,False
+Sicopoli,,41.134877777778,14.261708333333,Basso,Medio,,0,,False,False
+Trebula Suffenas,,41.95472222,12.93777778,Basso,Medio,,0,,False,False
+terme di Fordongianus,12041376.0,39.9972641,8.80816,Elevato,Basso,,0,,False,False
+Scornavacche,,37.0495,14.580333333333,Basso,Elevato,,0,,False,False
+Tempio di Zeus,,37.0515,15.2576,Basso,Elevato,,0,,False,False
+scavi archeologici del duomo di Napoli,,40.852796953204,14.259322014679,Basso,Elevato,,0,,False,False
+Villa dei Venulei,,43.83708,10.36136,Basso,Medio,,0,,False,False
+teatro romano di Teramo,,42.65789722,13.704075,Basso,Elevato,,0,,False,False
+Teatro romano di Brescia,,45.539868,10.2269897,Basso,Elevato,,0,,False,False
+tempio dei Dioscuri di Napoli,,40.85144,14.25683,Basso,Elevato,,0,,False,False
+Tempio di Giunone Sospita,,41.88956,12.48461,Basso,Medio,,0,,False,False
+Tempio di Giove Toro,,41.220501,16.065111,Basso,Elevato,,0,,False,False
+Villa di Domiziano,,41.738348,12.655029,Basso,Elevato,,0,,False,False
+Terme Erculee,,45.46489,9.195891,Basso,Basso,,0,,False,False
+Torre Mordillo,,39.715102,16.3154111,Basso,Elevato,,0,,False,False
+Tempio della Tosse,,41.96289167,12.78935833,Basso,Medio,,0,,False,False
+Torraccio della Cecchina,,41.94322,12.55871,Basso,Medio,,0,,False,False
+Trebula,11186441.0,41.9137,14.2829,Basso,Elevato,,0,,False,False
+Sassi Ritti,,42.74693889,10.19649444,Basso,Basso,,0,,False,False
+tumulo del Principe etrusco,,43.73416667,10.39111111,Elevato,Medio,,0,,False,False
+Statio aquarum,,41.89150556,12.48611944,Basso,Medio,,0,,False,False
+Villa Sora,,40.778191,14.374717,Basso,Elevato,,0,,False,False
+Teatro greco-romano di Marina di Gioiosa Ionica,,38.3014307,16.3328588,Basso,Elevato,,0,,False,False
+Tempio di Demetra,,37.299272,13.603352,Basso,Basso,,0,,False,False
+Terme della Rotonda,,37.50405556,15.08275,Basso,Elevato,,0,,False,False
+sepolcro di Priscilla,,41.8665,12.5031,Basso,Medio,,0,,False,False
+Sorabile,,40.1294,9.260164,Basso,Basso,,0,,False,False
+Tempio della Vittoria,,37.9739,13.8239,Basso,Elevato,,0,,False,False
+Tempio di Iside,,37.298333333333,13.588888888889,Basso,Basso,,0,,False,False
+Tempio di Vespasiano,,40.749594,14.485165,Basso,Medio,"Tempio di Vespasiano, Rom",100,Rom,True,False
+teatro romano di Ascoli Piceno,10288513.0,42.85366111,13.56858056,Basso,Elevato,,0,,False,False
+Tempio C,,37.5832,12.8253,Basso,Medio,,0,,False,False
+Tempio di Atena,,40.424502777778,15.005377777778,Basso,Basso,,0,,False,False
+scavi archeologici di Stabia,,40.702952,14.499259,Basso,Medio,,0,,False,False
+Tomba dei giganti di Sa Perda 'e S'Altare,,40.23746944,8.85855833,Basso,Basso,,0,,False,False
+Saturo,,40.3713973,17.3055696,Basso,Basso,,0,,False,False
+Terme di Elagabalo,,41.890236,12.489557,Basso,Medio,,0,,False,False
+Tempio E,,37.586689973344,12.834817067249,Basso,Elevato,,0,,False,False
+Tempio di Giano,,41.8913,12.48,Basso,Medio,,0,,False,False
+Tempio di Venere,,40.748425,14.483872,Basso,Medio,"Tempio di Venere, Baia",100,Baia,True,False
+Vecchia fucina,,41.28674167,14.56389722,Basso,Elevato,,0,,False,False
+Saturo,,40.37138889,17.30555556,Basso,Basso,,0,,False,False
+Tridentum,,46.0694569,11.123645,Basso,Basso,,0,,False,False
+Via etrusca del ferro,,43.821944444444,10.604444444444,Elevato,Medio,,0,,False,False
+teatro romano di Anzio,,41.45516111,12.62865278,Basso,Basso,,0,,False,False
+Tempio di Flora,,41.30575556,14.56272222,Basso,Elevato,,0,,False,False
+Tomba dei giganti di Osono,,40.03511111,9.61658333,Basso,Basso,,0,,False,False
+tempio della Concordia,10376146.0,37.2897,13.5922,Basso,Basso,"Tempio della Concordia, Agrigent",100,Agrigent,True,True
+Tunnel borbonico,,40.8354727695,14.2462720204,Basso,Elevato,,0,,False,False
+Apigliano,,40.20288,18.26919,Basso,Basso,,0,,False,False
+Kainua,,44.3370515,11.2038579,Basso,Elevato,,0,,False,False
+anfiteatro romano di Ancona,,43.623142,13.512171,Basso,Elevato,,0,,False,False
+Acropoli di Alatri,11857034.0,41.724717,13.344505,Basso,Elevato,,0,,False,False
+tempio di Talamonaccio,,42.55166667,11.16972222,Basso,Basso,,0,,False,False
+Area archeologica di Capo Colonna,,39.0289,17.2051,Basso,Medio,,0,,False,False
+Archeoparco del Basileus,,40.6833,15.6,Basso,Elevato,,0,,False,False
+Antinum,,41.889111111111,13.473805555556,Basso,Elevato,,0,,False,False
+Ad Decimum,,41.8027,12.639,Basso,Elevato,,0,,False,False
+Epipoli,,37.090582,15.218682,Basso,Elevato,,0,,False,False
+Anfiteatro romano di Teramo,,42.6579,13.7032,Basso,Elevato,,0,,False,False
+tomba del Diavolino II,,42.8757,10.9944,Basso,Basso,"Tomba del Diavolino II, Vetulonia",100,Vetulonia,True,True
+tomba del Belvedere,,42.8695165,10.9828734,Basso,Basso,,0,,False,False
+Porta Caelimontana e Porta Querquetulana,,41.8856,12.4952,Basso,Medio,,0,,False,False
+tempio di Giove,,40.7499,14.4845,Basso,Medio,"Tempio di Giove, Cumae",100,Cumae,True,False
+Tomba di Vigna Grande,,43.008732,11.947319,Basso,Medio,,0,,False,False
+Acquedotto romano di Catania,,37.5494,14.9555,Basso,Elevato,,0,,False,False
+anfiteatro romano di Rimini,,44.06027,12.5754,Basso,Elevato,,0,,False,False
+Agyrion,,37.657497,14.522598,Basso,Medio,,0,,False,False
+Tempio di Iside,,40.7492,14.4883,Basso,Medio,,0,,False,False
+Arco augusteo di Siracusa,,37.073657,15.280068,Basso,Elevato,,0,,False,False
+Antico porto di Atri,,42.585,14.0894,Basso,Elevato,,0,,False,False
+Antiche Mura,,45.5428,12.6386,Elevato,Basso,,0,,False,False
+Tomba dell'Iscrizione,,43.0242,11.9455,Basso,Medio,,0,,False,False
+Vitozza,,42.6778,11.7569,Basso,Medio,,0,,False,False
+Anfiteatro Romano di Arezzo,,43.4606,11.8806,Basso,Elevato,,0,,False,False
+Acropoli di Arpino,8960167.0,41.649154,13.617731,Basso,Elevato,,0,,False,False
+Ager Vaticanus,,41.9054,12.4662,Basso,Medio,,0,,False,False
+Tomba del Granduca,,43.0339,11.9597,Basso,Medio,,0,,False,False
+Arco di Gaio e Lucio Cesari,,41.892631,12.486033,Basso,Medio,,0,,False,False
+Tempio Etrusco di Punta della Vipera,,42.0463351,11.8256075,Basso,Basso,,0,,False,False
+teatro romano di Aosta,,45.73841,7.3223,Basso,Medio,,0,,False,False
+Tomba del Poggio al Moro,,43.0183,11.9262,Basso,Medio,,0,,False,False
+Tomba della Scimmia,,43.0304863,11.9520681,Basso,Medio,,0,,False,False
+Tomba dei Caronti,,42.25044444,11.76986111,Basso,Medio,,0,,False,False
+santuario nuragico di Abini,,40.145277777778,9.0927777777778,Basso,Basso,,0,,False,False
+Teate,,42.346992,14.168101,Basso,Elevato,,0,,False,False
+tomba dei Rilievi,,42.0071,12.1026,Basso,Basso,,0,,False,False
+Tempio di Era,10378390.0,40.419294444444,15.005280555556,Basso,Basso,,0,,False,False
+Villa di Tiberio,,41.2507,13.44979,Basso,Basso,,0,,False,False
+parco archeologico urbano dell'antica Picentia,,40.643444,14.884121,Basso,Medio,,0,,False,False
+Arco di Malborghetto,,42.052398,12.487033,Basso,Basso,"Arco di Malborghetto, Rom",100,Rom,True,True
+Villa Gordiani,,41.8942,12.5538,Basso,Medio,,0,,False,False
+Arco del Sacramento,,41.131,14.7736,Basso,Elevato,"Arco del Sacramento, Benevent",100,Benevent,True,True
+Arco di Druso e Germanico,,42.7333,12.7371,Basso,Elevato,,0,,False,False
+Parco archeologico di Baratti e Populonia,,42.991022,10.510601,Basso,Basso,,0,,False,False
+Tomba del Leone,,43.0306059,11.9521535,Basso,Medio,,0,,False,False
+Tomba della Tassinara,,43.0237,11.9638,Basso,Medio,,0,,False,False
+abbazia di Sant'Angelo in Formis,3167446.0,41.118242,14.260573,Basso,Medio,,0,,False,False
+Tarquinia,,42.254532,11.758173,Basso,Basso,,0,,False,False
+Arco di Portogallo,,41.9031,12.4796,Basso,Medio,,0,,False,False
+Melone del Sodo II,,43.281205,11.966126,Basso,Elevato,,0,,False,False
+Mevaniola,,43.988,11.9044,Basso,Elevato,,0,,False,False
+Area archeologica della Secca di Castrocucco,,40.0,15.7167,Basso,Elevato,,0,,False,False
+Area archeologica di Capo la Timpa,,40.0,15.7167,Basso,Elevato,,0,,False,False
+Albintimilium,,43.78928,7.62674,Basso,Medio,,0,,False,False
+Melone del Sodo I,,43.280264,11.968819,Basso,Elevato,,0,,False,False
+Acerenthia,,39.2579,16.814,Basso,Elevato,,0,,False,False
+Tempio del Belvedere,,42.7225286,12.1198882,Basso,Medio,,0,,False,False
+Akrillai,,37.03333333,14.68333333,Basso,Elevato,,0,,False,False
+Tumulo di Poggio Gaiella,,43.0438,11.9489,Basso,Medio,,0,,False,False
+Tomba di Boschetti,,43.7962,11.0645,Basso,Medio,,0,,False,False
+Tomba di Mezzavia,,43.29157,11.95029,Basso,Elevato,,0,,False,False
+Alba Docilia,,44.333841,8.511766,Medio,Basso,,0,,False,False
+Tumulo di Camucia,,43.259869,11.974117,Basso,Elevato,,0,,False,False
+Anxanum,,42.2309,14.3903,Basso,Medio,,0,,False,False
+Ad Duas Lauros,,41.878938,12.548943,Basso,Medio,,0,,False,False
+Arco di Riccardo,,45.647809126242,13.768900391705,Basso,Medio,"Arco di Riccardo, Triest",100,Triest,True,True
+tempio di Iside,,41.132373,14.780887,Basso,Elevato,,0,,False,False
+mura di Vetulonia,,42.859064,10.97265,Basso,Basso,,0,,False,False
+anfiteatro romano di Benevento,,41.1324,14.7674,Basso,Elevato,,0,,False,False
+Apeneste,,41.716666666667,16.05,Basso,Elevato,,0,,False,False
+Nuraghe Oes,,40.479782,8.7745128,Basso,Basso,,0,,False,False
+tomba della Fibula d'oro,,42.879391,10.995749,Basso,Basso,,0,,False,False
+Torre del Filosofo,,37.737937,15.000422,Basso,Elevato,,0,,False,False
+Narce,,42.2892,12.4142,Basso,Medio,,0,,False,False
+Tomba della Montagnola,,43.8334,11.2163,Basso,Medio,"Tomba della Montagnola, Sesto Fiorentino-Quinto",100,Sesto Fiorentino-Quinto,True,True
+tomba della Sirena,,42.654360547494,11.639835603638,Basso,Medio,,0,,False,False
+Acquedotto medievale di Salerno,,40.6833,14.7667,Basso,Medio,,0,,False,False
+Tomba dell'Arciere,,43.6239,11.1932,Basso,Medio,,0,,False,False
+anfiteatro romano di Albano Laziale,,41.732719444444,12.664947222222,Basso,Elevato,,0,,False,False
+Tumulo della Cuccumella,,42.4147048,11.6429007,Basso,Medio,,0,,False,False
+Antiquarium di Pompei,,40.74854,14.48329,Basso,Medio,,0,,False,False
+area funeraria fuori Porta Decumana di Aosta,,45.7349,7.3121,Basso,Medio,,0,,False,False
+tomba Galeotti,,43.010027,11.949995,Basso,Medio,,0,,False,False
+Aequum Tuticum,,41.24230833,15.0984744,Basso,Elevato,,0,,False,False
+Poggio Civitella,,43.0354128,11.4826342,Basso,Medio,,0,,False,False
+Anaktoron di Pantalica,,37.134336111111,15.025666666667,Basso,Elevato,,0,,False,False
+Capitolium,,45.539516,10.225602,Basso,Elevato,"Capitolium, Terracina",100,Terracina,True,False
+Catacomba di Calepodio,,41.89258,12.4324,Basso,Medio,,0,,False,False
+Catacomba dei due Felici,,41.889967,12.43457,Basso,Medio,,0,,False,False
+Catacomba dei Giordani,,41.924277777778,12.503611111111,Basso,Medio,,0,,False,False
+Catacombe di San Senatore,,41.7231167,12.6639045,Basso,Elevato,,0,,False,False
+Catacombe di San Zotico,,41.850465,12.667922,Basso,Elevato,,0,,False,False
+Catacombe di Sant'Alessandro,,41.96218889,12.59380278,Basso,Medio,,0,,False,False
+Barco Borghese,,41.815737,12.689823,Basso,Elevato,,0,,False,False
+Catacomba di San Castulo,,41.886014,12.525928,Basso,Medio,,0,,False,False
+Area archeologica di Santa Venera al Pozzo,,37.582569444444,15.153866666667,Basso,Elevato,,0,,False,False
+Catacombe di Vigna Randanini,,41.8568,12.5185,Basso,Medio,,0,,False,False
+area archeologica di Notarchirico,,40.968636741273,15.888316587983,Basso,Elevato,,0,,False,False
+Biblioteca di papa Agapito I,,41.88625833,12.49141111,Basso,Medio,,0,,False,False
+Catacomba di Novaziano,,41.903222,12.519417,Basso,Medio,,0,,False,False
+Catacomba di Aproniano,,41.8727,12.5163,Basso,Medio,,0,,False,False
+Catacombe di via Anapo,,41.9264,12.5062,Basso,Medio,,0,,False,False
+Cava Lazzaro,,36.837562,14.903244,Basso,Elevato,,0,,False,False
+Ausona,,41.357025,13.750744,Basso,Medio,,0,,False,False
+Cave di Cusa,,37.61944444,12.7225,Basso,Medio,"Cave di Cusa, Selinunte di Castelvetrano",100,Selinunte di Castelvetrano,True,True
+Catacomba di Sant'Ippolito,,41.907611,12.519861,Basso,Medio,,0,,False,False
+Catacomba di Trasone,,41.920258,12.49901,Basso,Medio,,0,,False,False
+Area archeologica di Monte Torto,,43.49237,13.39079,Basso,Elevato,,0,,False,False
+Catacomba maggiore,,41.922780555556,12.518611111111,Basso,Medio,,0,,False,False
+Cantiere navale romano di Stifone,,42.497735,12.492468,Elevato,Medio,,0,,False,False
+Catacombe di San Gaudioso,,40.8599,14.249,Basso,Elevato,,0,,False,False
+Catacomba di Sant'Ilaria,,41.924278,12.503611,Basso,Medio,,0,,False,False
+Capanne del Palatino,,41.88917222,12.484925,Basso,Medio,,0,,False,False
+casa protostorica di Fidene,,41.9785,12.5123,Basso,Basso,,0,,False,False
+Catacomba della Nunziatella,,41.836333,12.509861,Basso,Elevato,,0,,False,False
+Aula Isiaca,,41.8893,12.4868,Basso,Medio,,0,,False,False
+Catacomba di San Pancrazio,,41.885,12.454,Basso,Medio,,0,,False,False
+Bagni di Nerone,,43.72229,10.40195,Elevato,Medio,"Bagni di Nerone, Pisa",100,Pisa,True,True
+Catacombe di Pretestato,,41.8588,12.5153,Basso,Medio,,0,,False,False
+Catacombe di Santa Felicita,,41.917869,12.497285,Basso,Medio,,0,,False,False
+Catacomba di Ponziano,,41.877506,12.463049,Basso,Medio,,0,,False,False
+Marruvium,,42.0065,13.6276,Basso,Elevato,,0,,False,False
+area archeologica di San Pietro degli Schiavoni,,40.6390897,17.9447511,Basso,Basso,,0,,False,False
+Brixia,,45.539166666667,10.225833333333,Basso,Elevato,,0,,False,False
+Catacomba dei Santi Processo e Martiniano,,41.886742,12.456312,Basso,Medio,,0,,False,False
+Catacomba dei Santi Marco e Marcelliano,,41.861027,12.5096,Basso,Medio,,0,,False,False
+Cava di Purcarel,,45.42472222,8.05444444,Basso,Basso,,0,,False,False
+Aufidena,,41.784299,14.108223,Basso,Elevato,,0,,False,False
+Catacomba di Santa Mustiola,,43.022379164415,11.959930038237,Basso,Medio,,0,,False,False
+Area dei templi dello Scoglietto,,42.6731,11.0511,Basso,Basso,,0,,False,False
+Area archeologica etrusco-sannitica di Fratte,,40.6981,14.7776,Basso,Medio,,0,,False,False
+catacombe di Commodilla,,41.861167,12.483472,Basso,Medio,,0,,False,False
+Augusta Bagiennorum,,44.559186,7.854843,Basso,Basso,,0,,False,False
+Boira Fusca,,45.409388888889,7.6268611111111,Basso,Basso,,0,,False,False
+battistero paleocristiano di Santa Maria Maggiore,,40.74238333,14.66824722,Medio,Medio,,0,,False,False
+Cava dei Servi,,36.944479,14.839528,Basso,Elevato,,0,,False,False
+Catacomba di Sant'Agnese,,41.92277778,12.51861111,Basso,Medio,,0,,False,False
+Argimusco,,37.98803,15.042778,Basso,Elevato,,0,,False,False
+catacombe di San Gennaro,,40.86418,14.247624,Basso,Elevato,,0,,False,False
+Catacomba di Sant'Ermete,,41.923024866448,12.488319405765,Basso,Medio,,0,,False,False
+Castiglione,,36.950552777778,14.650208333333,Basso,Elevato,,0,,False,False
+Catacomba di Balbina,,41.861395,12.506242,Basso,Medio,,0,,False,False
+Case a giardino,,41.751884216963,12.284577135211,Basso,Basso,,0,,False,False
+Catacomba di Santa Tecla,,41.851389,12.478861,Basso,Elevato,,0,,False,False
+Catacomba di Santa Caterina d'Alessandria,,43.0060903,11.9528958,Elevato,Medio,,0,,False,False
+Catacomba di San Panfilo,,41.918419,12.493559,Basso,Medio,,0,,False,False
+Cava a filo,,44.4428267,11.3798385,Basso,Elevato,,0,,False,False
+Caserma dei Vigili della città riomana di Ostia,,41.757,12.292,Basso,Basso,,0,,False,False
+Case romane del Celio,,41.8864,12.492,Basso,Medio,,0,,False,False
+Catacomba di San Nicomede,,41.910889,12.507861,Basso,Medio,,0,,False,False
+Allifae,,41.325511,14.334859,Basso,Elevato,,0,,False,False
+Castrum Inui,,41.580061111111,12.511169444444,Basso,Medio,,0,,False,False
+Casa sannitica,,40.8061,14.3474,Basso,Elevato,"Casa Sannitica, Herkulaneum",100,Herkulaneum,True,False
+Catacomba di San Valentino,,41.924625,12.47286,Basso,Medio,,0,,False,False
+Bagni greci di Gela,,37.072611111111,14.230444444444,Basso,Medio,,0,,False,False
+Catacomba dei Santi Gordiano ed Epimaco,,41.874583,12.506583,Basso,Medio,,0,,False,False
+Catacombe di Villa Torlonia,,41.913948435809,12.509403721724,Basso,Medio,,0,,False,False
+Catacomba di San Lorenzo,,41.902817654283,12.521067579034,Basso,Medio,,0,,False,False
+Catacombe di Ad Decimum,,41.8029531,12.6388251,Basso,Elevato,,0,,False,False
+Auditorium di Mecenate,,41.894,12.5014,Basso,Medio,,0,,False,False
+Aternum,,42.460052222222,14.212194166667,Medio,Medio,,0,,False,False
+Catacombe di Generosa,,41.836122,12.432818,Basso,Medio,,0,,False,False
+Casa dei Grifi,,41.889,12.4873,Basso,Medio,,0,,False,False
+area Archeologica di Poggio del Molino,,43.014638888889,10.515527777778,Basso,Basso,,0,,False,False
+Castellammare della Bruca,3179660.0,40.15,15.18333333,Basso,Basso,,0,,False,False
+Atrium Libertatis,,41.895066,12.483805,Basso,Medio,,0,,False,False
+Casal Ninfeo,,41.874374,12.417173,Basso,Medio,,0,,False,False
+casa del Chirurgo,,40.7516,14.4819,Basso,Medio,,0,,False,False
+Capo Piccolo,,38.912127777778,17.0752,Elevato,Elevato,,0,,False,False
+Capaccio Vecchio,,40.445317,15.054698,Basso,Basso,,0,,False,False
+area archeologica la Fenice,,43.7123,13.2184,Basso,Elevato,,0,,False,False
+Castiglione di Paludi,,39.5427475,16.69747353,Basso,Elevato,,0,,False,False
+Casal Rotondo,,41.821,12.556,Basso,Elevato,"Casal Rotondo, Rom",100,Rom,True,True
+Bouleuterion di Reggio Calabria,,38.11230003652,15.649910464227,Basso,Elevato,,0,,False,False
+Catacombe di Sant'Antioco,,39.06961667,8.45075833,Medio,Basso,,0,,False,False
+Lilibeo,,37.8,12.43333,Basso,Basso,,0,,False,False
+Ipogeo dei Volumni,,43.0893,12.4244,Basso,Elevato,,0,,False,False
+nuraghe Ardasai,,39.8936207,9.3391085,Basso,Basso,,0,,False,False
+Arco di Scipione l'Africano,,41.892856,12.482808,Basso,Medio,,0,,False,False
+nuraghe Ispiene,,40.77975,8.91627,Basso,Basso,,0,,False,False
+Mitreo del Circo Massimo,,41.88811389,12.48285556,Basso,Medio,,0,,False,False
+Foro Piscario,,41.8927,12.4865,Basso,Medio,,0,,False,False
+Norba latina,10300667.0,41.592248,12.962333,Basso,Basso,,0,,False,False
+necropoli di Mandra Antine,,40.51516667,8.62983333,Basso,Basso,,0,,False,False
+Monte Sirai,,39.183334,8.483334,Basso,Basso,,0,,False,False
+Insula dell'Ara Coeli,,41.8941,12.4823,Basso,Medio,,0,,False,False
+dolmen di Sa Coveccada,,40.50826111,8.86669167,Basso,Basso,,0,,False,False
+area archeologica di Potentia,,43.4141,13.67118,Medio,Elevato,,0,,False,False
+pozzo sacro di Milis,,40.99344444,9.62847222,Basso,Basso,,0,,False,False
+Hippana,,37.70305556,13.43611111,Basso,Basso,,0,,False,False
+Portus,8015120.0,41.77916667,12.26666667,Basso,Basso,,0,,False,False
+Basilica di Nettuno,,41.898235,12.476789,Basso,Medio,"Basilica di Nettuno, Rom",100,Rom,True,True
+nuraghe Tanca Manna,,40.31144,9.324646,Basso,Basso,,0,,False,False
+Basilica Argentaria,,41.894094,12.484411,Basso,Medio,,0,,False,False
+necropoli di Filigosa,,40.27805556,8.76916667,Basso,Basso,,0,,False,False
+Spina,,44.69305556,12.10111111,Medio,Elevato,,0,,False,False
+necropoli di Moseddu,,40.48591389,8.73053056,Basso,Basso,,0,,False,False
+Horti Lolliani,,41.900694,12.497861,Basso,Medio,,0,,False,False
+Macellum,,40.750077,14.484728,Basso,Medio,"Macellum, Gerasa",100,Gerasa,True,False
+villaggio nuragico di Serra Orrios,,40.333833333333,9.5376111111111,Basso,Basso,,0,,False,False
+tempio di Zeus Olimpio,,37.2908,13.5844,Basso,Basso,,0,,False,False
+area archeologica di Santa Cristina,,40.0611421,8.7309719,Basso,Basso,,0,,False,False
+complesso nuragico di Lu Brandali,,41.233777777778,9.1745277777778,Basso,Basso,,0,,False,False
+arco di Marco Aurelio,,41.9015,12.480472,Basso,Medio,,0,,False,False
+Saepinum,7289564.0,41.433758,14.618444,Basso,Elevato,,0,,False,False
+Vescia,3164496.0,41.19066,13.92925,Basso,Medio,,0,,False,False
+Teatro romano di Neapolis,,40.85235375,14.25668389,Basso,Elevato,,0,,False,False
+Entella,,37.774051,13.1219,Basso,Elevato,,0,,False,False
+Meta Sudans,,41.89008333,12.49066667,Basso,Medio,,0,,False,False
+Laos,11952436.0,39.7675,15.83055556,Basso,Elevato,,0,,False,False
+Schola Armaturarum (III.3.6),,40.75166667,14.49166667,Basso,Medio,,0,,False,False
+teatro romano di Spoleto,10288493.0,42.7331,12.73489,Basso,Elevato,,0,,False,False
+complesso archeologico di Noddule,,40.387222222222,9.2836111111111,Basso,Basso,,0,,False,False
+Tempio delle Ninfe,,41.89513611,12.47871667,Basso,Medio,,0,,False,False
+nuraghe Izzana,,40.96872222,9.05951389,Basso,Basso,,0,,False,False
+Terme Deciane,,41.88331,12.48433,Basso,Medio,,0,,False,False
+Molpa,,40.032024,15.303995,Basso,Basso,,0,,False,False
+Su Mulinu,,39.6397819,8.9998856,Basso,Basso,,0,,False,False
+ara di Ierone,10344495.0,37.074405,15.27723,Basso,Elevato,,0,,False,False
+Giganti di Mont'e Prama,,39.965778,8.448278,Basso,Basso,,0,,False,False
+Castello d'Alceste,,40.646685,17.704167,Basso,Basso,,0,,False,False
+pozzo sacro di Sant'Anastasia,,39.6166861,8.8199138,Basso,Basso,,0,,False,False
+Norchia,,42.34055556,11.94305556,Basso,Medio,,0,,False,False
+Porta San Giovanni,,41.88583333,12.50916667,Basso,Medio,"Porta San Giovanni, Lucignano (Arezzo)",100,Lucignano (Arezzo),True,False
+necropoli di Sant'Andrea Priu,,40.42137222,8.84691667,Basso,Basso,,0,,False,False
+Preneste,,41.839484,12.892308,Basso,Elevato,,0,,False,False
+Tempio della Gens Flavia,,41.9019,12.4907,Basso,Medio,,0,,False,False
+tomba dei giganti di Li Lolghi,,41.066701,9.333687,Basso,Basso,,0,,False,False
+Monte d'Accoddi,,40.7906971,8.4489274,Basso,Basso,,0,,False,False
+Porticus Margaritaria,,41.891111111111,12.487777777778,Basso,Medio,,0,,False,False
+nuraghe Sa Mandra ’e sa Giua,,40.676969,8.600374,Basso,Basso,,0,,False,False
+santuario nuragico di Santa Vittoria,,39.71313,9.10689,Basso,Basso,,0,,False,False
+Sabucina,,37.50244,14.119363,Basso,Basso,,0,,False,False
+Complesso archeologico di Pranu Muttedu,,39.567636,9.267997,Basso,Basso,,0,,False,False
+tomba dei giganti di Sa Domu 'e S'Orcu,,39.6860984,8.8711487,Basso,Basso,,0,,False,False
+Timpone della Motta,7910532.0,39.8078,16.3686,Basso,Elevato,,0,,False,False
+nuraghe Orolio,,40.29222222,8.90194444,Basso,Basso,,0,,False,False
+mitreo delle Terme di Mitra,,41.754138888889,12.285166666667,Basso,Basso,,0,,False,False
+Villa romana di San Paolo,,46.46972222,11.25833333,Basso,Basso,,0,,False,False
+Villa Jovis,10376261.0,40.55823,14.262628,Basso,Basso,"Villa Jovis, Capri, Isola di",100,Isola di,True,False
+pozzo sacro di Sa Testa,,40.93463333,9.54611111,Basso,Basso,,0,,False,False
+Satricum,,41.5131,12.7551,Basso,Medio,,0,,False,False
+pozzo sacro di Predio Canopoli,,40.82861111,8.88611111,Basso,Basso,,0,,False,False
+Mendolito,,37.698173,14.80656,Basso,Medio,,0,,False,False
+Capo di Bove,,41.8481419,12.5209685,Basso,Elevato,,0,,False,False
+Sulki,,39.066666666667,8.45,Basso,Basso,,0,,False,False
+complesso archeologico di Monte Baranta,,40.631933,8.396644,Basso,Basso,,0,,False,False
+Nuraghe Orgono,,40.128793,8.8583667,Basso,Basso,,0,,False,False
+Horti Lamiani,,41.8945,12.5047,Basso,Medio,,0,,False,False
+anfiteatro romano di Luni,,44.0626,10.0224,Basso,Medio,,0,,False,False
+Arco di Augusto,,45.1361,7.04294,Basso,Medio,"Arco di Augusto, Fano",100,Fano,True,False
+Villa di Patti,,38.14916667,14.97194444,Basso,Elevato,,0,,False,False
+parco archeologico Passo di Corvo,,41.553032,15.611277,Basso,Elevato,,0,,False,False
+Horti Maecenatis,,41.893888888889,12.501388888889,Basso,Medio,,0,,False,False
+Domus Transitoria,,41.8886,12.4859,Basso,Medio,,0,,False,False
+tumulo di Montecalvario,,43.4725,11.2838,Basso,Medio,,0,,False,False
+Menhir di Biru 'e Concas,,40.01083,9.03156,Basso,Basso,,0,,False,False
+Arco di Settimio Severo,6269255.0,41.892777777778,12.484722222222,Basso,Medio,,0,,False,False
+chiesa di Sant'Aspreno al Porto,,40.84428,14.25502,Basso,Elevato,,0,,False,False
+Tempio della Concordia,,41.892930555556,12.484244444444,Basso,Medio,"Tempio della Concordia, Agrigent",100,Agrigent,True,False
+Fori Imperiali,,41.89444444,12.48555556,Basso,Medio,"Fori Imperiali, Rom",100,Rom,True,True
+Mausoleo di Augusto,6269266.0,41.90611,12.47639,Basso,Medio,,0,,False,False
+Horti Sallustiani,,41.908083333333,12.496916666667,Basso,Medio,,0,,False,False
+Grotta dell'Addaura,,38.18640833,13.35306389,Basso,Elevato,,0,,False,False
+Volsinii,,42.6447,11.9858,Basso,Medio,,0,,False,False
+parco archeologico del Castellammare,,38.205575,13.36739167,Basso,Elevato,,0,,False,False
+Domus Tiberiana,,41.89024,12.48623,Basso,Medio,,0,,False,False
+Aquae Cutiliae,,42.380104,13.008757,Basso,Elevato,,0,,False,False
+Juvanum,11153681.0,41.997895,14.249799,Basso,Elevato,,0,,False,False
+Foro Olitorio,,41.891111111111,12.48,Basso,Medio,,0,,False,False
+basilica Ulpia,,41.895556,12.484572,Basso,Medio,"Basilica Ulpia, Rom",100,Rom,True,True
+Ludus Magnus,8015119.0,41.89,12.495,Basso,Medio,,0,,False,False
+Regia,,41.891944444444,12.486388888889,Basso,Medio,,0,,False,False
+Villa di Lucullo,,41.9065,12.4834,Basso,Medio,,0,,False,False
+Aeculanum,,41.054035,15.010536,Basso,Elevato,,0,,False,False
+Porta Maggiore,8015088.0,41.8914573,12.5152419,Basso,Medio,"Porta Maggiore, Rom",100,Rom,True,True
+Tomba dei Leopardi,,42.2486,11.7716,Basso,Medio,,0,,False,False
+Circo Massimo,6269249.0,41.8859,12.4857,Basso,Medio,"Circo Massimo, Rom",100,Rom,True,True
+portico di Ottavia,,41.892436,12.478533,Basso,Medio,"Portico di Ottavia, Rom",100,Rom,True,True
+Ciampate del Diavolo,,41.332533,14.024577,Basso,Medio,,0,,False,False
+Plestia,,43.031177,12.90372,Basso,Elevato,,0,,False,False
+Cuma,3177706.0,40.848611,14.053611,Basso,Elevato,,0,,False,False
+Pompei,3170336.0,40.750556,14.489722,Basso,Medio,,0,,False,False
+Villa dei Quintili,8015044.0,41.8314288,12.552482,Basso,Elevato,"Villa dei Quintili, Rom",100,Rom,True,True
+Tauriana,,38.39444444,15.87138889,Basso,Elevato,,0,,False,False
+Forum Novum,11847731.0,42.3306,12.6039,Basso,Elevato,,0,,False,False
+Palatino,3171655.0,41.888333333333,12.486944444444,Basso,Medio,,0,,False,False
+Casa delle Vestali,,41.891388888889,12.486666666667,Basso,Medio,,0,,False,False
+Partenope,,40.833333,14.25,Basso,Elevato,,0,,False,False
+parco archeologico del Lago dell'Accesa,,42.99078889,10.90422778,Basso,Basso,,0,,False,False
+Praedia di Giulia Felice,,40.7519,14.4933,Basso,Medio,,0,,False,False
+sinagoga di Ostia Antica,,41.7592566,12.3006178,Basso,Basso,,0,,False,False
+Lupercale,,41.888056,12.484444,Basso,Medio,,0,,False,False
+Kaulon,,38.446354,16.57791,Basso,Medio,,0,,False,False
+Abella,,40.95897,14.589359,Basso,Elevato,,0,,False,False
+giacimenti fossiliferi di Bolca,,45.595277777778,11.21,Basso,Elevato,,0,,False,False
+Domus dei tappeti di pietra,,44.418987,12.194545,Medio,Elevato,,0,,False,False
+Orologio di Augusto,,41.900555555556,12.478611111111,Basso,Medio,,0,,False,False
+Villa dei Papiri,,40.806666666667,14.345555555556,Basso,Elevato,,0,,False,False
+Arco di Augusto,,41.891895,12.485994,Basso,Medio,"Arco di Augusto, Fano",100,Fano,True,False
+Abellinum,,40.92212,14.83123,Basso,Elevato,,0,,False,False
+tempio di Antonino e Faustina,8224900.0,41.892138888889,12.486688888889,Basso,Medio,"Tempio di Antonino e Faustina, Rom",100,Rom,True,True
+Naxos,,37.823989,15.273976,Basso,Elevato,,0,,False,False
+Sinuessa,,41.153941536511,13.847624066426,Basso,Basso,,0,,False,False
+Tusculum,10376743.0,41.798333333333,12.710833333333,Basso,Elevato,,0,,False,False
+"Basilica Cristiana (III,I,4)",,41.753,12.2865,Basso,Basso,,0,,False,False
+Tempio di Domu de Orgia,,39.74868719,9.32724239,Basso,Basso,,0,,False,False
+area archeologica di San Genesio,,43.693244,10.884318,Basso,Medio,,0,,False,False
+Cento Camerelle,,40.79821,14.08409,Basso,Elevato,,0,,False,False
+area archeologica di Su Nuraxi,,39.7028565,8.9998843,Basso,Basso,,0,,False,False
+Paestum,3171709.0,40.42,15.005555555556,Basso,Basso,,0,,False,False
+Lacus Curtius,,41.892345,12.485106,Basso,Medio,,0,,False,False
+tomba dei giganti di Barrancu Mannu,,39.09972222,8.76861111,Basso,Basso,,0,,False,False
+Domus di Giove e Ganimede,,41.754736,12.288323,Basso,Basso,,0,,False,False
+Foro di Augusto,11978578.0,41.894166666667,12.486666666667,Basso,Medio,"Foro di Augusto, Rom",100,Rom,True,True
+dolmen di Motorra,,40.30621181,9.57522611,Basso,Basso,,0,,False,False
+Aesernia,,41.594348,14.230823,Basso,Elevato,,0,,False,False
+Kamarina,8063309.0,36.872287,14.447788,Basso,Medio,,0,,False,False
+tumulo di Montefortini,,43.7928,11.0649,Basso,Medio,,0,,False,False
+scavi archeologici di Ercolano,3177364.0,40.806111,14.3475,Basso,Elevato,,0,,False,False
+Colosseo,6269248.0,41.890277777778,12.492222222222,Basso,Medio,"Colosseo, Rom",100,Rom,True,True
+Tempio di Vesta,,41.9667,12.8009,Basso,Medio,"Tempio di Vesta, Tivoli",100,Tivoli,True,True
+Umbilicus Urbis Romae,,41.892722,12.484556,Basso,Medio,,0,,False,False
+Porta Pia,,41.90930344757,12.501301830685,Basso,Medio,"Porta Pia, Rom",100,Rom,True,True
+Tempio di Portuno,11920020.0,41.88926,12.480908,Basso,Medio,,0,,False,False
+Tempio della Sibilla,10288744.0,41.9669,12.8009,Basso,Medio,,0,,False,False
+Settizonio,,41.885633,12.488719,Basso,Medio,,0,,False,False
+Falerii Novi,,42.299534,12.359121,Basso,Medio,,0,,False,False
+Foro Romano,6269259.0,41.8922,12.4852,Basso,Medio,,0,,False,False
+Domus di Amore e Psiche,,41.754044,12.286057,Basso,Basso,,0,,False,False
+nuraghe Antigori,,39.09527778,9.00472222,Basso,Basso,,0,,False,False
+necropoli di Montessu,,39.13333333,8.66861111,Basso,Basso,,0,,False,False
+Dolmen della Chianca,,41.194099,16.487324,Basso,Elevato,,0,,False,False
+Foro di Cesare,,41.894008,12.484936,Basso,Medio,"Foro di Cesare, Rom",100,Rom,True,True
+Villa Adriana,7506720.0,41.941944,12.775278,Basso,Elevato,"Villa Adriana, Tivoli",100,Tivoli,True,True
+Paedagogium,,41.8877,12.4854,Basso,Medio,,0,,False,False
+Tomba François,,42.4174,11.6391,Basso,Medio,,0,,False,False
+Colonna Traiana,,41.895833333333,12.484166666667,Basso,Medio,"Colonna Traiana, Rom",100,Rom,True,True
+Domus della Fortuna Annonaria,,41.754,12.2905,Basso,Basso,,0,,False,False
+Venafrum,,41.48555556,14.03972222,Basso,Elevato,,0,,False,False
+abbazia di Fruttuaria,,45.222466,7.782073,Basso,Basso,,0,,False,False
+Poggiomarino,6538766.0,40.8,14.55,Basso,Medio,,0,,False,False
+Basilica Porcia,,41.89331944,12.48481944,Basso,Medio,,0,,False,False
+Terme di Diocleziano,8015092.0,41.90277778,12.49833333,Basso,Medio,,0,,False,False
+Acquedotto Appio,,41.887846,12.480973,Basso,Medio,,0,,False,False
+Catacombe di Domitilla,,41.85891389,12.50552778,Basso,Medio,,0,,False,False
+Tempio del Divo Romolo,,41.891997,12.487397,Basso,Medio,"Tempio del Divo Romolo, Rom",100,Rom,True,True
+mura serviane,,41.901666666667,12.501666666667,Basso,Medio,"Mura Serviane, Rom",100,Rom,True,True
+Arco di Costantino,8410591.0,41.889828,12.490605,Basso,Medio,"Arco di Costantino, Rom",100,Rom,True,True
+basilica di Massenzio,6269253.0,41.891944444444,12.488333333333,Basso,Medio,,0,,False,False
+Area archeologica di San Giovenale,,42.22444444,11.99972222,Basso,Medio,,0,,False,False
+Tempio di Vesta,10278740.0,41.891707,12.486206,Basso,Medio,"Tempio di Vesta, Tivoli",100,Tivoli,True,True
+Lavinium,,41.6531,12.4726,Basso,Medio,,0,,False,False
+teatro romano di Trieste,,45.649036,13.770289,Basso,Medio,,0,,False,False
+parco archeologico di Sibari,2523123.0,39.716564,16.493696,Basso,Elevato,,0,,False,False
+Monte Testaccio,8224820.0,41.875952,12.475694,Basso,Medio,,0,,False,False
+Casa di Livia,,41.88930556,12.48562778,Basso,Medio,,0,,False,False
+Monte Pruno,8959242.0,40.4118309,15.3628179,Basso,Elevato,,0,,False,False
+Tomba dei giganti di Is Concias,,39.25755,9.35975,Basso,Basso,,0,,False,False
+tomba dei giganti di Imbertighe,,40.20833333,8.80638889,Basso,Basso,,0,,False,False
+Basilica Sempronia,,41.891942,12.484728,Basso,Medio,,0,,False,False
+Amiternum,8133994.0,42.400776,13.305769,Basso,Elevato,,0,,False,False
+Aula Regia,,41.8891,12.487,Basso,Medio,,0,,False,False
+Caere,3178999.0,42.001666666667,12.108333333333,Basso,Basso,,0,,False,False
+basilica sotterranea di Porta Maggiore,,41.89114,12.515484,Basso,Medio,"Basilica Sotterranea di Porta Maggiore, Rom",100,Rom,True,True
+santuario di Portonaccio,10339082.0,42.02111111,12.39083333,Basso,Basso,"Santuario di Portonaccio, Veio",100,Veio,True,True
+Tempio di Apollo,,40.7492,14.4844,Basso,Medio,"Tempio di Apollo, Cumae",100,Cumae,True,False
+Clivus Capitolinus,,41.8925,12.4838,Basso,Medio,,0,,False,False
+Luni sul Mignone,,42.225791666667,11.933022222222,Basso,Medio,,0,,False,False
+Suessula,,40.98985278,14.39816944,Basso,Elevato,,0,,False,False
+Acquarossa,,42.48333333,12.13333333,Basso,Medio,,0,,False,False
+Clivus Argentarius,,41.89365556,12.48450556,Basso,Medio,,0,,False,False
+Luceria,,44.608967,10.411804,Basso,Elevato,,0,,False,False
+Lucus Feroniae,,42.128323,12.596635,Basso,Medio,,0,,False,False
+Area Archeologica di Cortona,,43.260214,11.973653,Basso,Elevato,,0,,False,False
+Castello Barbarossa,,40.555911,14.226819,Basso,Basso,,0,,False,False
+Sassi di Matera,10629174.0,40.6667,16.6083,Basso,Elevato,,0,,False,False
+Tempio di Matidia,,41.89955,12.47799,Basso,Medio,,0,,False,False
+complesso nuragico di Tamuli,,40.26083333,8.71777778,Basso,Basso,,0,,False,False
+Capua,,41.086242,14.250357,Basso,Medio,,0,,False,False
+Tempio di Traiano,,41.89555556,12.48583333,Basso,Medio,,0,,False,False
+Anfiteatro romano di Catania,10282013.0,37.507361,15.085417,Basso,Elevato,,0,,False,False
+Terina,,38.944865,16.238922,Basso,Elevato,,0,,False,False
+fonte sacra Su Tempiesu,,40.41138889,9.41305556,Basso,Basso,,0,,False,False
+Nomentum,,42.033728,12.6444485,Basso,Medio,,0,,False,False
+Labirinto di Porsenna,,43.0153,11.9486,Basso,Medio,,0,,False,False
+Grotta Guattari,,41.23134613,13.09321404,Basso,Basso,,0,,False,False
+Terme del Faro,,41.7528,12.2904,Basso,Basso,,0,,False,False
+Venusia,,40.961051,15.818321,Basso,Elevato,,0,,False,False
+Villa di Diomede,,40.7523864,14.4787071,Basso,Medio,"Villa di Diomede, Pompeji",100,Pompeji,True,True
+Corfinium,11153691.0,42.11739,13.835249,Basso,Elevato,,0,,False,False
+tomba dei giganti di S'Ena e Thomes,,40.37902,9.51533,Basso,Basso,,0,,False,False
+Tempio di Iside al Campo Marzio,,41.89721,12.4791,Basso,Medio,,0,,False,False
+Criptoportico forense,,45.7379,7.31733,Basso,Medio,,0,,False,False
+Complesso di S'Arcu 'e Is Forros,,40.00245,9.400644,Basso,Basso,,0,,False,False
+Parco della Preistoria,,45.4736,9.49972,Medio,Basso,,0,,False,False
+Tempio di Venere Genitrice,,41.894194444444,12.484805555556,Basso,Medio,"Tempio di Venere Genitrice, Rom",100,Rom,True,True
+Emporium,,41.880649,12.473724,Basso,Medio,,0,,False,False
+Cromlech del Piccolo San Bernardo,,45.680406,6.883931,Basso,Medio,,0,,False,False
+Ripoli,,42.82611111,13.89,Basso,Elevato,,0,,False,False
+Aveia,,42.3,13.48972222,Basso,Elevato,,0,,False,False
+Porticus Aemilia,,41.880111111111,12.473611111111,Basso,Medio,,0,,False,False
+Drepanon,,38.015,12.5125,Basso,Basso,,0,,False,False
+Vetulonia,,42.8625,10.975,Basso,Basso,,0,,False,False
+abbazia di San Vincenzo al Volturno,11594011.0,41.62874,14.091198,Basso,Elevato,"Abbazia di San Vincenzo al Volturno, Castel San Vincenzo",100,Castel San Vincenzo,True,True
+Cività di Tricarico,,40.6375988,16.0588417,Basso,Elevato,,0,,False,False
+Gonfienti,,43.8556,11.1325,Elevato,Medio,,0,,False,False
+complesso nuragico di Seruci,,39.24916667,8.42444444,Basso,Basso,,0,,False,False
+Castrum Novum,,42.0371178,11.8338331,Basso,Basso,,0,,False,False
+Tomba del Triclinio,,42.24875,11.7716,Basso,Medio,,0,,False,False
+Area archeologica di Fiesole,,43.808005555556,11.293927777778,Basso,Medio,,0,,False,False
+Domus dei Coiedii,,43.62508,12.98491,Basso,Elevato,,0,,False,False
+Tempio di Bellona,,41.89241,12.47989,Basso,Medio,,0,,False,False
+Bithia,,38.89583333,8.88527778,Basso,Basso,,0,,False,False
+Villa di Massenzio,8015042.0,41.855474242484,12.519411878046,Basso,Elevato,,0,,False,False
+villaggio nuragico di S'Urbale,,40.08444444,9.11,Basso,Basso,,0,,False,False
+Arco di Tiberio,,41.892339,12.484253,Basso,Medio,"Arco di Tiberio, Pompeji",100,Pompeji,True,False
+tomba degli Auguri,,42.23818,11.79473,Basso,Basso,,0,,False,False
+Area sacra di Sant’Omobono,8015152.0,41.89062,12.48126,Basso,Medio,,0,,False,False
+anfiteatro romano di Lucera,,41.508256,15.344853,Basso,Elevato,,0,,False,False
+Clivus Scauri,,41.8864,12.4915,Basso,Medio,,0,,False,False
+Roselle,3168944.0,42.827179501921,11.159305804001,Basso,Basso,,0,,False,False
+Tomba di san Manno,,43.103055555556,12.350277777778,Basso,Elevato,,0,,False,False
+Curia di Pompeo,,41.8953,12.475,Basso,Medio,,0,,False,False
+Ocriculum,9587430.0,42.41127014,12.46708965,Basso,Medio,,0,,False,False
+Lanuvium,,41.67469,12.69758,Basso,Elevato,,0,,False,False
+sito archeologico di Vassallaggi,,37.47043,13.947573,Basso,Basso,,0,,False,False
+fonte sacra di Su Lumarzu,,40.42305556,8.8125,Basso,Basso,,0,,False,False
+Heba,,42.586,11.308,Basso,Basso,,0,,False,False
+catacombe di Priscilla,7303818.0,41.9297,12.5087,Basso,Medio,,0,,False,False
+Ara della Regina,,42.2588,11.8017,Basso,Medio,"Ara della Regina, Tarquinia",100,Tarquinia,True,True
+Foro di Pompei,,40.74944722,14.484825,Basso,Medio,,0,,False,False
+grotta Paglicci,,41.654406944444,15.615198888889,Basso,Elevato,,0,,False,False
+grotte dell'Annunziata,11838179.0,42.85168,13.57307,Basso,Elevato,,0,,False,False
+Coppa Nevigata,,41.55810556,15.83393889,Basso,Elevato,,0,,False,False
+Circo romano di Aquileia,,45.775007,13.361778,Basso,Medio,,0,,False,False
+Grotta di Bergeggi,,44.242878,8.444899,Basso,Basso,,0,,False,False
+Excubitorium,,41.888769,12.474452,Basso,Medio,,0,,False,False
+Complesso episcopale del patriarca Callisto,,46.093,13.43193,Basso,Elevato,,0,,False,False
+edificio di Eumachia,,40.7491654,14.485323,Basso,Medio,,0,,False,False
+grotte di Collepardo,,41.75846,13.36581,Basso,Elevato,,0,,False,False
+Cisterne romane di Fermo,,43.16122,13.71945,Basso,Elevato,,0,,False,False
+Città d'Ombria,,44.612712,9.804482,Basso,Elevato,,0,,False,False
+Grotta di San Teodoro,,38.05,14.591319,Basso,Elevato,,0,,False,False
+Ikuvium,,43.35201,12.57255,Basso,Elevato,,0,,False,False
+chiesa di San Silvestro,,42.82723618,11.15942478,Basso,Basso,,0,,False,False
+Cencelle,,42.195345,11.858372,Basso,Basso,,0,,False,False
+Domus Severiana,,41.8866,12.4878,Basso,Medio,"Domus Severiana, Rom",100,Rom,True,True
+Colombario costantiniano,,41.8567297,12.5294367,Elevato,Medio,,0,,False,False
+Grotta di Santa Croce,,41.177055,16.469138,Basso,Elevato,,0,,False,False
+Cluviae,,42.1286,14.2653,Basso,Elevato,,0,,False,False
+Colle Madore,,37.747448294663,13.620935789365,Basso,Basso,,0,,False,False
+Domus Praeconum,,41.887416666667,12.485083333333,Basso,Medio,,0,,False,False
+Fornaci romane di Eboli,,40.62209,15.05428,Basso,Medio,,0,,False,False
+Fagifulae,,41.657876,14.667625,Basso,Elevato,,0,,False,False
+Grotte di Catullo,,45.501453,10.606448,Basso,Elevato,,0,,False,False
+Histonium,,42.11158889,14.70821944,Basso,Basso,,0,,False,False
+Grotta dell'Uzzo,,38.1100456,12.7867371,Basso,Basso,,0,,False,False
+Grotta del Broion,,45.4671937,11.5889001,Basso,Medio,,0,,False,False
+Foro romano di Aquileia,,45.774296,13.365506,Basso,Medio,,0,,False,False
+Horrea piperiana,,41.89171389,12.48791944,Basso,Medio,,0,,False,False
+Domus del Triclinio,,44.413865,12.19994,Medio,Elevato,,0,,False,False
+Forum Appii,,41.46639,12.9975,Basso,Basso,,0,,False,False
+Horti Maiani,,41.727833,12.5047,Basso,Elevato,,0,,False,False
+grotte di Castelcivita,10402410.0,40.49549,15.20916,Basso,Medio,,0,,False,False
+Horti Pallantiani,,41.8965,12.504694,Basso,Medio,,0,,False,False
+grotta Calafarina,2525467.0,36.72176,15.11711,Basso,Medio,,0,,False,False
+Gruppo di edifici domizianei nel Foro Romano,,41.89115,12.48533333,Basso,Medio,,0,,False,False
+Foro romano di Catania,,37.50182778,15.08157778,Basso,Elevato,,0,,False,False
+Grotte di Torri,,42.2021,12.6713,Basso,Medio,,0,,False,False
+Heraion alla foce del Sele,,40.4885,14.9697,Elevato,Basso,,0,,False,False
+Domus del Mito,,43.66291,12.41155,Basso,Elevato,,0,,False,False
+chiesa di San Bartolomeo a Montecurliano,,42.82203674,11.15713692,Basso,Basso,,0,,False,False
+Costa Balenae,,43.83547,7.86798,Basso,Elevato,,0,,False,False
+Claterna,,44.434435,11.504509,Medio,Elevato,,0,,False,False
+Dolmen di Albarosa,,41.18563056,16.48497222,Basso,Elevato,,0,,False,False
+Colombarium,,40.846035,14.21046,Basso,Elevato,,0,,False,False
+Complesso archeologico di Baia,,40.817432,14.070045,Basso,Elevato,,0,,False,False
+Forum Popilii,,41.17202,13.966869,Basso,Medio,,0,,False,False
+Foro romano di Milano,,45.463531,9.18571,Basso,Basso,,0,,False,False
+Cozzo Collura,,37.101508333333,15.131536111111,Basso,Elevato,,0,,False,False
+complesso archeologico di San Pietro a Corte,,40.68,14.7575,Basso,Medio,,0,,False,False
+Ghiaccio Forte,,42.606583333333,11.393583333333,Basso,Basso,,0,,False,False
+complesso archeologico di Sa Figu,,40.604722,8.589722,Basso,Basso,,0,,False,False
+Domus e mosaico del Leone,,42.65838056,13.70570278,Basso,Elevato,,0,,False,False
+chiesa di San Gaetano alle Grotte,,37.50873,15.08827,Basso,Elevato,,0,,False,False
+Frattesina,,45.0251,11.652628,Basso,Basso,,0,,False,False
+Geronio,,41.7522,14.8906,Basso,Elevato,,0,,False,False
+Comino,3178234.0,42.187244,14.190785,Basso,Elevato,,0,,False,False
+Cubulteria,,41.251934,14.327125,Basso,Elevato,,0,,False,False
+Civita di Grotte di Castro,,42.671157,11.88403,Basso,Medio,,0,,False,False
+Finziade,,37.100146,13.931719,Basso,Basso,,0,,False,False
+Horti Calyclani,,41.896667,12.504222,Basso,Medio,,0,,False,False
+Horti Tauriani,,41.896667,12.504222,Basso,Medio,,0,,False,False
+Foro civile di Preneste,,41.83921111,12.89225833,Basso,Elevato,,0,,False,False
+Helvia Recina,,43.327956,13.424089,Basso,Elevato,,0,,False,False
+Horti Epaphroditiani,,41.894944,12.508306,Basso,Medio,,0,,False,False
+Complesso di via in Arcione,,41.901862,12.485611,Basso,Medio,,0,,False,False
+Gioiosa Guardia,,38.1507353,14.9305074,Basso,Elevato,,0,,False,False
+dolmen di Monte Longu,,40.27873611,9.60089167,Basso,Basso,,0,,False,False
+Fornaci di laterizi Maxia,,39.244166666667,9.1794444444444,Basso,Basso,,0,,False,False
+Grotta dei Cervi,,40.082777777778,18.485,Basso,Basso,,0,,False,False
+Grotte della Gurfa,,37.748946,13.754089,Basso,Basso,,0,,False,False
+Habitat rupestre di Mottola,,40.6115923,17.0624428,Basso,Elevato,,0,,False,False
+eremo di Monte Turcisi,,37.497211534227,14.749832590647,Basso,Elevato,,0,,False,False
+Chiafura,,36.7912167,14.7100241,Basso,Elevato,,0,,False,False
+Circo di Bovillae,,41.75751,12.62171,Basso,Elevato,,0,,False,False
+Horrea Agrippiana,,41.89083056,12.48505278,Basso,Medio,"Horrea Agrippiana, Rom",100,Rom,True,True
+Foro romano di Brescia,,45.539166666667,10.225833333333,Basso,Elevato,,0,,False,False
+antica chiesa di Santa Lucia,,42.819277,11.138942,Basso,Basso,,0,,False,False
+Centopietre,,39.83765278,18.33623333,Basso,Basso,,0,,False,False
+Gibil Gabib,,37.450667707411,14.077856759987,Basso,Basso,,0,,False,False
+colonne romane di Brindisi,,40.6410982,17.9467584,Basso,Basso,,0,,False,False
+Geosito archeologico di Bard,,45.60589,7.74752,Basso,Basso,,0,,False,False
+Dolmen Frisari,,41.18025278,16.50968889,Basso,Elevato,,0,,False,False
+Grassera,,42.82619167,10.41545833,Basso,Basso,,0,,False,False
+Devia,,41.906092,15.618806,Basso,Elevato,,0,,False,False
+cenotafio di Annia Regilla,,41.8653,12.5165,Elevato,Medio,,0,,False,False
+Domus del chirurgo,,44.061863,12.56819,Basso,Elevato,,0,,False,False
+Cisterna delle Sette Sale,,41.89341389,12.49654167,Basso,Medio,,0,,False,False
+Monte Calvario,,46.550892,12.448261,Basso,Medio,,0,,False,False
+area archeologica di Nuraghe Mannu,,40.293777,9.589241,Basso,Basso,,0,,False,False
+Museo archeologico nazionale di Luni,,44.0644,10.0171,Basso,Medio,,0,,False,False
+necropoli di Montalè,,40.74825556,8.51122778,Basso,Basso,,0,,False,False
+necropoli di San Clemente,,40.73333333,14.66666667,Basso,Medio,,0,,False,False
+mura di Cosa,,42.4136512,11.2885909,Basso,Basso,,0,,False,False
+Mansio ad Vacanas,,42.126638888889,12.360138888889,Basso,Basso,,0,,False,False
+Lagozza di Besnate,,45.7063,8.74901,Basso,Basso,,0,,False,False
+Ipogeo di via Livenza,,41.91357778,12.49589167,Basso,Medio,,0,,False,False
+Ipogeo di Trebio Giusto,,41.87388889,12.51583333,Basso,Medio,,0,,False,False
+Ipogeo degli Ottavi,,41.9631,12.4062,Basso,Basso,,0,,False,False
+Leontinoi,,37.285478,14.998115,Basso,Elevato,,0,,False,False
+Palazzo a Mare,,40.5584,14.23489167,Elevato,Basso,,0,,False,False
+Odeon,,37.50297222,15.08283333,Basso,Elevato,"Odeon, Paestum di Capaccio",100,Paestum di Capaccio,True,False
+nuraghe Serbissi,,39.823463,9.496776,Basso,Basso,,0,,False,False
+Mitreo di Duino,,45.71578,13.733121,Basso,Medio,,0,,False,False
+Ninfeo di Alessandro,,41.895262,12.503677,Basso,Medio,,0,,False,False
+tomba romana del Carmine,,37.50977,15.08924,Basso,Elevato,,0,,False,False
+nuraghe S'Ulimu,,39.6542,9.5729,Basso,Basso,,0,,False,False
+necropoli di Coccitelle,,42.000704,13.808328,Basso,Elevato,,0,,False,False
+Mura romane di Milano,,45.465074,9.17851,Basso,Basso,,0,,False,False
+Mura Timoleontee,,37.07128056,14.22359722,Basso,Medio,,0,,False,False
+necropoli del tempio di Antonino Pio e Faustina,,41.89199722,12.48688056,Basso,Medio,,0,,False,False
+Monte Grande,,37.198362,13.679849,Basso,Basso,,0,,False,False
+Noto antica,,36.938549,15.022485,Basso,Elevato,,0,,False,False
+nuraghe Lerno,,40.584333333333,9.1646944444444,Basso,Basso,,0,,False,False
+Locri Epizefiri,9781862.0,38.23642,16.259895,Basso,Elevato,,0,,False,False
+Monte del Grano,,41.86527222,12.54929167,Basso,Medio,,0,,False,False
+necropoli di Ponte Messato,,42.64757778,13.67653056,Basso,Elevato,,0,,False,False
+parco archeologico dei Tauriani,,38.39415,15.86624,Basso,Elevato,,0,,False,False
+mitreo di Santa Prisca,,41.883,12.484,Basso,Medio,,0,,False,False
+Monte Grotticelle,,37.4395,13.4982,Basso,Basso,,0,,False,False
+Monte Bubbonia,,37.251925,14.340346,Basso,Elevato,,0,,False,False
+necropoli di Samassi,,39.483325,8.908364,Basso,Basso,,0,,False,False
+Monte Turcisi,,37.501087,14.748242,Basso,Elevato,,0,,False,False
+mitreo Barberini,,41.9036724,12.4912501,Basso,Medio,,0,,False,False
+Ipogeo di Vibia,,41.8619,12.5102,Basso,Medio,,0,,False,False
+necropoli Anguilla,,37.47232,13.25446,Basso,Basso,,0,,False,False
+Monte Adranone,,37.684074,13.139629,Basso,Elevato,,0,,False,False
+Lagole,,46.436977,12.386322,Basso,Elevato,,0,,False,False
+Muro Tenente,,40.538754,17.742287,Basso,Basso,,0,,False,False
+Palikè,,37.331677,14.698109,Basso,Elevato,,0,,False,False
+necropoli del Crocifisso,,42.21630278,14.14303889,Basso,Elevato,,0,,False,False
+Sotterranei di Orvieto,,42.716587,12.11298,Basso,Medio,,0,,False,False
+lago del Frassino,,45.436708333333,10.667125,Basso,Elevato,,0,,False,False
+Laghetto della Costa,,45.2695,11.7435,Basso,Basso,,0,,False,False
+Lucus Angitiae,11153713.0,41.970771,13.460661,Basso,Elevato,,0,,False,False
+Monte San Mauro,10626427.0,37.217025,14.46890833,Basso,Elevato,,0,,False,False
+Pantheon di Santa Maria in Stelle,,45.497084106553,11.037800763123,Basso,Elevato,,0,,False,False
+nuraghe Zuras,,40.134111111111,8.7789444444444,Basso,Basso,,0,,False,False
+Luceoli,,43.43962,12.63253,Basso,Elevato,,0,,False,False
+Ocriticum,11153714.0,42.00298611,13.99021111,Basso,Elevato,,0,,False,False
+Museo civico e Foro romano di Assisi,,43.0696,12.6138,Basso,Elevato,,0,,False,False
+nuraghe Pranu,,39.7823,9.4439,Basso,Basso,,0,,False,False
+parco archeologico del Colle Garampo,,44.13653333,12.24163056,Basso,Elevato,,0,,False,False
+necropoli dell'Esquilino,,41.8957,12.5022,Basso,Medio,,0,,False,False
+Mausoleo di Ummidia Quadratilla,10300180.0,41.482565,13.822098,Basso,Elevato,,0,,False,False
+Occhiolà,,37.2351,14.6231,Basso,Elevato,,0,,False,False
+Ipogeo di via Dino Compagni,,41.8716,12.5175,Basso,Medio,,0,,False,False
+Pallanum,,42.03194444,14.39527778,Basso,Medio,,0,,False,False
+necropoli di Is Loccis-Santus,,39.1196,8.493,Basso,Basso,,0,,False,False
+Monteroni,8956966.0,41.94293,12.13142,Basso,Basso,,0,,False,False
+Mondeval,,46.46658,12.09392,Basso,Medio,,0,,False,False
+Larinum,,41.805277777778,14.916944444444,Basso,Elevato,,0,,False,False
